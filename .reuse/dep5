@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: The Common Project Template
-Upstream-Contact: 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+Upstream-Name: Coprocess | Bash 101
+Upstream-Contact: Issues · bash-101/coprocess <https://github.com/bash-101/coprocess/issues>
 Source: https://github.com/the-common/project-template
 
 Files:
